@@ -1,2 +1,1 @@
-# alx-low_level_programming
-This is the beginning of my learning C
+This is the overall README file for the sub-folders
